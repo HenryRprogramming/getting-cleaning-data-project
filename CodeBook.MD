@@ -10,7 +10,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>getting-cleaning-data-project/README.md at master · hglennrock/getting-cleaning-data-project</title>
+    <title>getting-cleaning-data-project/CodeBook.MD at master · hglennrock/getting-cleaning-data-project</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -34,7 +34,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="47BB23DA:706B:102A179B:5472358D" name="octolytics-dimension-request_id" /><meta content="9406655" name="octolytics-actor-id" /><meta content="HenryRprogramming" name="octolytics-actor-login" /><meta content="231a2d78db841241918c7463b01d942248a118617cd8148a36030794524d2183" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="47BB23DA:6BAA:318EA714:5472357E" name="octolytics-dimension-request_id" /><meta content="9406655" name="octolytics-actor-id" /><meta content="HenryRprogramming" name="octolytics-actor-login" /><meta content="231a2d78db841241918c7463b01d942248a118617cd8148a36030794524d2183" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -44,7 +44,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="KJM/eby29H8Tl6MFXz2QPr8dFBCxxxSJqhmFTiZB8abtyCacFuq7ZeZt5TOAV/tsu7CYPOAu8cLAoz9ZK6VffQ==" name="csrf-token" />
+<meta content="qJEUHiJ4S10ihqakEkdDxsazsTYg4GoVe6tZnarVy4ieeLa/BkoxPKtQmhjnCCcxqNZ8OyaQW6sj3YvKT1DNlw==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-fa9b8c5d848205db514d4097d2b78f4528d01a79f39601e0f9c5c40ed6894711.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-e48cf9f7b34f2138837ae8f236223b114441dde478e265f64e1ad9bf6bd76afd.css" media="all" rel="stylesheet" type="text/css" />
@@ -164,7 +164,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="DWF/tp7FS3Dkc/qBnRzBj397nuv17+tQwagHZBiimSJP6UoNCwQMyHFTPwR5WeLjHYV79GIY9rQRewpYAon+DA==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="q4wfsxoaC3OTr7r1lOlAh/t3adP7++7QO5N1M8ZCAkrXbD5D8nxWQKrGFXbI/YFy2iZ4MNjwQFxCspSvi5R+3w==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -193,7 +193,7 @@
 <ul class="pagehead-actions">
 
     <li class="subscription">
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="plEB1T8JnSA30qkiJ1vMmp+sios4nQQkisGKKcsTbx9XvWtO2mCHgQg6DsquFgtZKRGgX1nGPfUp2PyHWoPIEw==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19213479" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LqEt94pu78dXA2aMD9eJijvFKY+5pD3adI75RqgsNTu2I5yOxQrIhVWPUCgC+6HcQDyqWAxI1q50zoAM9rwe9w==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19213479" />
 
     <div class="select-menu js-menu-container js-select-menu">
       <a class="social-count js-social-count" href="/hglennrock/getting-cleaning-data-project/watchers">
@@ -268,7 +268,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/hglennrock/getting-cleaning-data-project/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="PC5WM9sp5VasC1DGOAoNfnC3yOY4ekItX0KZarNYXCJ8kPBMoWvQ3fslRq5x3mdsPUu+zNouqRfbeA/VQPqugQ==" /></div>
+    <form accept-charset="UTF-8" action="/hglennrock/getting-cleaning-data-project/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HLaAsk7AY444T1IjWpR2Xe+s7kWzts2x04YjXysjObHjV+kZ/9a1C4XixrYG4SP1opce1lYy3EN9dHXwTDpzrg==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Unstar this repository" title="Unstar hglennrock/getting-cleaning-data-project">
@@ -279,7 +279,7 @@
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/hglennrock/getting-cleaning-data-project/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zN2obHCzhpiP8PdZvKpiuZRj4mIEuXKgzA2OfM+z5y6Tha5fOkrpL5Tesu7GGCkN1pOc5WZ1ujhpjSmzKRGdXQ==" /></div>
+    <form accept-charset="UTF-8" action="/hglennrock/getting-cleaning-data-project/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="525+CFX0MD4zdap1cXesqYUZ+efjMe6ltF9wpFwKfYx17VP3v/h6ziji17FEIvx19mTxw/bngoGk/Jk6XsZAgA==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Star this repository" title="Star hglennrock/getting-cleaning-data-project">
@@ -447,9 +447,9 @@
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
           
 
-<a href="/hglennrock/getting-cleaning-data-project/blob/cabd30fca5dbdd8c633f40018e8490eb4c046040/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/hglennrock/getting-cleaning-data-project/blob/cabd30fca5dbdd8c633f40018e8490eb4c046040/CodeBook.MD" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:eadeee12ae95dace6497974ac782f205 -->
+<!-- blob contrib key: blob_contributors:v21:cfa99c2cf1baab75256b88a9b6361b3e -->
 
 <div class="file-navigation">
   
@@ -495,7 +495,7 @@
 
             <div class="select-menu-item js-navigation-item selected">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/hglennrock/getting-cleaning-data-project/blob/master/README.md"
+              <a href="/hglennrock/getting-cleaning-data-project/blob/master/CodeBook.MD"
                  data-name="master"
                  data-skip-pjax="true"
                  rel="nofollow"
@@ -528,11 +528,11 @@
           aria-label="Quickly jump between files">
       <span class="octicon octicon-list-unordered"></span>
     </a>
-    <button aria-label="Copy to clipboard" class="js-zeroclipboard minibutton zeroclipboard-button" data-clipboard-text="README.md" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    <button aria-label="Copy to clipboard" class="js-zeroclipboard minibutton zeroclipboard-button" data-clipboard-text="CodeBook.MD" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
   </div>
 
   <div class="breadcrumb">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/hglennrock/getting-cleaning-data-project" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">getting-cleaning-data-project</span></a></span></span><span class="separator"> / </span><strong class="final-path">README.md</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/hglennrock/getting-cleaning-data-project" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">getting-cleaning-data-project</span></a></span></span><span class="separator"> / </span><strong class="final-path">CodeBook.MD</strong>
   </div>
 </div>
 
@@ -571,20 +571,20 @@
   <div class="file">
     <div class="meta clearfix">
       <div class="info file-name">
-          <span>30 lines (21 sloc)</span>
+          <span>50 lines (37 sloc)</span>
           <span class="meta-divider"></span>
-        <span>1.683 kb</span>
+        <span>3.445 kb</span>
       </div>
       <div class="actions">
         <div class="button-group">
-          <a href="/hglennrock/getting-cleaning-data-project/raw/master/README.md" class="minibutton " id="raw-url">Raw</a>
-            <a href="/hglennrock/getting-cleaning-data-project/blame/master/README.md" class="minibutton js-update-url-with-hash">Blame</a>
-          <a href="/hglennrock/getting-cleaning-data-project/commits/master/README.md" class="minibutton " rel="nofollow">History</a>
+          <a href="/hglennrock/getting-cleaning-data-project/raw/master/CodeBook.MD" class="minibutton " id="raw-url">Raw</a>
+            <a href="/hglennrock/getting-cleaning-data-project/blame/master/CodeBook.MD" class="minibutton js-update-url-with-hash">Blame</a>
+          <a href="/hglennrock/getting-cleaning-data-project/commits/master/CodeBook.MD" class="minibutton " rel="nofollow">History</a>
         </div><!-- /.button-group -->
 
           <a class="octicon-button tooltipped tooltipped-nw js-conduit-openfile-check"
              href="http://mac.github.com"
-             data-url="github-mac://openRepo/https://github.com/hglennrock/getting-cleaning-data-project?branch=master&amp;filepath=README.md"
+             data-url="github-mac://openRepo/https://github.com/hglennrock/getting-cleaning-data-project?branch=master&amp;filepath=CodeBook.MD"
              aria-label="Open this file in GitHub for Mac"
              data-failed-title="Your version of GitHub for Mac is too old to open this file. Try checking for updates.">
               <span class="octicon octicon-device-desktop"></span>
@@ -592,11 +592,11 @@
 
               <a class="octicon-button tooltipped tooltipped-n js-update-url-with-hash"
                  aria-label="Clicking this button will fork this project so you can edit the file"
-                 href="/hglennrock/getting-cleaning-data-project/edit/master/README.md"
+                 href="/hglennrock/getting-cleaning-data-project/edit/master/CodeBook.MD"
                  data-method="post" rel="nofollow"><span class="octicon octicon-pencil"></span></a>
 
             <a class="octicon-button danger tooltipped tooltipped-s"
-               href="/hglennrock/getting-cleaning-data-project/delete/master/README.md"
+               href="/hglennrock/getting-cleaning-data-project/delete/master/CodeBook.MD"
                aria-label="Fork this project and delete file"
                data-method="post" data-test-id="delete-blob-file" rel="nofollow">
           <span class="octicon octicon-trashcan"></span>
@@ -610,39 +610,76 @@
 
 <p>Heather Wade</p>
 
-<p>Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.</p>
+<h3>
+<a id="user-content-description" class="anchor" href="#description" aria-hidden="true"><span class="octicon octicon-link"></span></a>Description</h3>
+
+<p>Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.</p>
 
 <h3>
-<a id="user-content-overview" class="anchor" href="#overview" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview</h3>
+<a id="user-content-source-data" class="anchor" href="#source-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Source Data</h3>
 
-<p>This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent
-analysis. A full description of the data used in this project can be found at <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">The UCI Machine Learning Repository</a></p>
+<p>A full description of the data used in this project can be found at <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">The UCI Machine Learning Repository</a></p>
 
 <p><a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">The source data for this project can be found here.</a></p>
 
 <h3>
-<a id="user-content-making-modifications-to-this-script" class="anchor" href="#making-modifications-to-this-script" aria-hidden="true"><span class="octicon octicon-link"></span></a>Making Modifications to This Script</h3>
+<a id="user-content-data-set-information" class="anchor" href="#data-set-information" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Set Information</h3>
 
-<p>Once you have obtained and unzipped the source files, you will need to make one modification to the R file before you can process the data.
-Note that on line 26 of run_analysis.R, you will set the path of the working directory to relect the location of the source files
-in your own directory.</p>
+<p>The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. </p>
 
-<h3>
-<a id="user-content-project-summary" class="anchor" href="#project-summary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Project Summary</h3>
-
-<p>The following is a summary description of the project instructions</p>
-
-<p>You should create one R script called run_analysis.R that does the following. 
-1. Merges the training and the test sets to create one data set.
-2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-3. Uses descriptive activity names to name the activities in the data set
-4. Appropriately labels the data set with descriptive activity names. 
-5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. </p>
+<p>The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.</p>
 
 <h3>
-<a id="user-content-additional-information" class="anchor" href="#additional-information" aria-hidden="true"><span class="octicon octicon-link"></span></a>Additional Information</h3>
+<a id="user-content-attribute-information" class="anchor" href="#attribute-information" aria-hidden="true"><span class="octicon octicon-link"></span></a>Attribute Information</h3>
 
-<p>You can find additional information about the variables, data and transformations in the CodeBook.MD file.</p>
+<p>For each record in the dataset it is provided: </p>
+
+<ul>
+<li>Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. </li>
+<li>Triaxial Angular velocity from the gyroscope. </li>
+<li>A 561-feature vector with time and frequency domain variables. </li>
+<li>Its activity label. </li>
+<li>An identifier of the subject who carried out the experiment.</li>
+</ul>
+
+<h3>
+<a id="user-content-section-1-merge-the-training-and-the-test-sets-to-create-one-data-set" class="anchor" href="#section-1-merge-the-training-and-the-test-sets-to-create-one-data-set" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 1. Merge the training and the test sets to create one data set.</h3>
+
+<p>After setting the source directory for the files, read into tables the data located in</p>
+
+<ul>
+<li>features.txt</li>
+<li>activity_labels.txt</li>
+<li>subject_train.txt</li>
+<li>x_train.txt</li>
+<li>y_train.txt</li>
+<li>subject_test.txt</li>
+<li>x_test.txt</li>
+<li>y_test.txt</li>
+</ul>
+
+<p>Assign column names and merge to create one data set.</p>
+
+<h2>
+<a id="user-content-section-2-extract-only-the-measurements-on-the-mean-and-standard-deviation-for-each-measurement" class="anchor" href="#section-2-extract-only-the-measurements-on-the-mean-and-standard-deviation-for-each-measurement" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 2. Extract only the measurements on the mean and standard deviation for each measurement.</h2>
+
+<p>Create a logcal vector that contains TRUE values for the ID, mean and stdev columns and FALSE values for the others.
+Subset this data to keep only the necessary columns.</p>
+
+<h2>
+<a id="user-content-section-3-use-descriptive-activity-names-to-name-the-activities-in-the-data-set" class="anchor" href="#section-3-use-descriptive-activity-names-to-name-the-activities-in-the-data-set" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 3. Use descriptive activity names to name the activities in the data set</h2>
+
+<p>Merge data subset with the activityType table to cinlude the descriptive activity names</p>
+
+<h2>
+<a id="user-content-section-4-appropriately-label-the-data-set-with-descriptive-activity-names" class="anchor" href="#section-4-appropriately-label-the-data-set-with-descriptive-activity-names" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 4. Appropriately label the data set with descriptive activity names.</h2>
+
+<p>Use gsub function for pattern replacement to clean up the data labels.</p>
+
+<h2>
+<a id="user-content-section-5-create-a-second-independent-tidy-data-set-with-the-average-of-each-variable-for-each-activity-and-each-subject" class="anchor" href="#section-5-create-a-second-independent-tidy-data-set-with-the-average-of-each-variable-for-each-activity-and-each-subject" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject.</h2>
+
+<p>Per the project instructions, we need to produce only a data set with the average of each veriable for each activity and subject</p>
 </article>
   </div>
 
@@ -684,7 +721,7 @@ in your own directory.</p>
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2014 <span title="0.04659s from github-fe126-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2014 <span title="0.04770s from github-fe129-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
